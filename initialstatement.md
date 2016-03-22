@@ -24,8 +24,6 @@ We will learn to code in c# and further develop our passion for computer science
 - Creating the basic foundation of its functionality
 - Time management 
 
-
-
 ## High-Level Learning & Action Outline
  * Brainstorm application functionality - 1 Week
  * Learn C# and Unity - 5 Weeks
@@ -33,3 +31,9 @@ We will learn to code in c# and further develop our passion for computer science
  * Development - 6 Weeks
  * Testing & Fixing - 1 Week
  * Documentation - 1 Week
+
+##Members
+- Koven Wei
+- John Han
+- Yutaro Miyata
+- Matthew Hope
